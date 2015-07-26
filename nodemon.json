@@ -1,0 +1,15 @@
+{
+	"ignore": [
+		".git",
+	"node_modules/**/node_modules"
+		],
+	"verbose": false,
+	"watch": [
+		"index.js",
+	"config/*",
+	"lib/*",
+	"views/*"
+		],
+	"ext": "js json htm"
+}
+

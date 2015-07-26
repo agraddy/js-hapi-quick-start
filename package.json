@@ -1,0 +1,24 @@
+{
+  "name": "js-hapi-quick-start",
+  "version": "0.0.1",
+  "description": "A simple setup for a basic hapi website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agraddy/js-hapi-quick-start.git"
+  },
+  "author": "Anthony Graddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agraddy/js-hapi-quick-start/issues"
+  },
+  "homepage": "https://github.com/agraddy/js-hapi-quick-start#readme",
+  "dependencies": {
+    "async": "^1.4.0",
+    "handlebars": "^3.0.3",
+    "hapi": "^8.8.0"
+  }
+}
